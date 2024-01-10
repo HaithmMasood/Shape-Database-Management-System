@@ -29,6 +29,9 @@ To run the program, simply execute `CommandLine.py` and follow the interactive m
 ## Installation
 Clone this repository or download the source code to your local machine. Make sure Python 3 is installed on your system.
 
+## Contributing
+This project was developed as part of an academic assignment. While it is not open for contributions, feedback and suggestions are always welcome.
+
 ```bash
 git clone https://github.com/yourusername/shape-database.git
 cd shape-database
